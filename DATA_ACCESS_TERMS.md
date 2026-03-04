@@ -27,3 +27,12 @@ By editing this document and adding their name below, the recipient publicly con
 
 — Kaique Nunes (Anarkrypto)
 NanoPay.me
+
+
+## Acceptance
+
+I confirm that I have read and agree to the terms described in this document.
+
+Name: Chirag Asarpota
+GitHub: @chiragasarpota
+Date: 2026-03-04
